@@ -19,9 +19,9 @@ Project Details
 * Actuals of Test set : https://github.com/maybiswas/SigmaML_Pneumonia_Classifier/blob/main/output/test_metadata_withindex.xlsx
 
 * Improvements to try :
-*   Segment the lung area where cloudy regions / white spots of congestions are present.
-*   Try RESNET, VGG16, etc. other CNN pre-trained models for transfer learning.
-*   Try Vision Transformer (Vit) or any model that's pretrained on clouds or domain related data.
-*   Try more different data augmentation methods like sheer & zoom. Sometimes adding noise / manipulations forces the model to really learn from the augmentations.
-*   Try manual class weights if data quality & redundancy is questionable.
-*   Use GenAI (like cleanlab).
++ Segment the lung area where cloudy regions / white spots of congestions are present.
++ Try RESNET, VGG16, etc. other CNN pre-trained models for transfer learning.
++ Try Vision Transformer (Vit) or any model that's pretrained on clouds or domain related data.
++ Try more different data augmentation methods like sheer & zoom. Sometimes adding noise / manipulations forces the model to really learn from the augmentations.
++ Try manual class weights if data quality & redundancy is questionable.
++ Use GenAI (like cleanlab).
