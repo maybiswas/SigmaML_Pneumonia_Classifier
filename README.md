@@ -12,7 +12,7 @@ Project Details
   <img src="https://github.com/maybiswas/SigmaML_Pneumonia_Classifier/blob/main/input/Healthy_Lungs.png" width=50% height=50%>
   <img src="https://github.com/maybiswas/SigmaML_Pneumonia_Classifier/blob/main/input/Pneumonic_Lungs.png" width=50% height=50%>
 
-* Data Distribution of Train set : Healthy_VS_Pneumonic_Lungs
+* Data Distribution of Train set : Healthy VS Pneumonic Lungs
 <img src="https://github.com/maybiswas/SigmaML_Pneumonia_Classifier/blob/main/input/pie-chart.png" width=50% height=50%>
 
 * Output Submission of Test set : https://github.com/maybiswas/SigmaML_Pneumonia_Classifier/blob/main/output/output_submission_eval.csv
