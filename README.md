@@ -5,11 +5,11 @@ Project Details
 ---------------
 
 ##### Training data : 
-![Kaggle Hackathon Data](https://www.kaggle.com/competitions/123-of-ai-presents-pneumonia-detection-from-xray/data)
+https://www.kaggle.com/competitions/123-of-ai-presents-pneumonia-detection-from-xray/data
 ##### Github Repository : 
 https://github.com/maybiswas/SigmaML_Pneumonia_Classifier
 ##### Main Notebook : 
-![pneumonia-classifier.ipynb](https://github.com/maybiswas/SigmaML_Pneumonia_Classifier/blob/main/pneumonia-classifier.ipynb)
+https://github.com/maybiswas/SigmaML_Pneumonia_Classifier/blob/main/pneumonia-classifier.ipynb
 
 ##### Problem Statement : 
 The goal is to figure out if the patient has pneumonia or not, from X-ray images.
