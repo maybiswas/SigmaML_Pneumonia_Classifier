@@ -5,7 +5,7 @@ Project Details
 ---------------
 
 ##### Training data : 
-![Kaggle Hackathon Data](https://www.kaggle.com/competitions/123-of-ai-presents-pneumonia-detection-from-xray)
+![Kaggle Hackathon Data](https://www.kaggle.com/competitions/123-of-ai-presents-pneumonia-detection-from-xray/data)
 ##### Github Repository : 
 https://github.com/maybiswas/SigmaML_Pneumonia_Classifier
 ##### Main Notebook : 
