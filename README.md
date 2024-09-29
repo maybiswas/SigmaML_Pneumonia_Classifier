@@ -1,5 +1,5 @@
-SigmaML Quiz 3 : OpenCV practice with Portrait lady
-===================================================
+SigmaML Quiz 5 : Pneumonia Detection from Xray
+==============================================
 
 Project Details
 ---------------
