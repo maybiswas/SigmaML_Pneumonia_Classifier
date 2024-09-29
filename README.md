@@ -18,7 +18,7 @@ https://github.com/maybiswas/SigmaML_Pneumonia_Classifier/blob/main/pneumonia-cl
 
 ##### Output Submission of Test set : 
 https://github.com/maybiswas/SigmaML_Pneumonia_Classifier/blob/main/output/output_submission_eval.csv
-###### Actuals of Test set : 
+##### Actuals of Test set : 
 https://github.com/maybiswas/SigmaML_Pneumonia_Classifier/blob/main/output/test_metadata_withindex.xlsx
 
 ##### Improvements to try :
